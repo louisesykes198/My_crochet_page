@@ -1,44 +1,66 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+@import url('https://fonts.googleapis.com/css?family=Nunito Sans|Lato:300');
 
-body{
-    width: auto;
-    height: 100vh;
-    background-image: url(https://t3.ftcdn.net/jpg/04/11/58/62/240_F_411586222_duDI8LJzWNzVR2XHdrwCQ2mV5hzPlYKE.jpg);
-  background-size:cover;
-  background-position: center;
-   font-family: "Nunito Sans", sans-serif;
-    }
-
-#list_items {
-    list-style-type: none;
-    font-size: medium;
-    letter-spacing: 1px;
-    }
-
-#list_items a{
-    color: rgb(12, 12, 12);
-    float: right;
-    margin: 0;
-    padding: 10px 20px;
-    text-decoration: none;
+.body{
+  background-color: #0ba0e0;
+  font-family: "Nunito Sans", sans-serif;
 }
 
-.logo{
-    width: 140px;
-    padding: 5px 10px;
-     }
+.background{
+  background-color: #cfebf7;
+  
+}
 
-     h1{
-        font-size: 60px;
-        margin-top: 20px;
-        color: blue;
-        margin-top: 10%;
-        text-align: center;
-          }
-    
-      p{
-        font-size: 45px;
-        margin-top: 15px;
-        color: rgb(93, 93, 216);
-        text-align: center;
-      }
+.nav{
+  list-style-type: none;
+  text-align: right;
+  padding: 20px;
+  margin: 2;
+ 
+}
+
+a{
+  text-decoration-line: none;
+   
+}
+
+ul li{
+  display: inline;
+  padding: 10px;
+}
+
+.page_1 {
+   color: red;
+  text-align: center;
+}
+.page_2 {
+   color: red;
+  text-align: center;
+}
+
+.page_3 {
+   color: red;
+  text-align: center;
+}
+
+.page_4 {
+   color: red;
+  text-align: center;
+}
+
+.sub_headings{
+  color: green;
+}
+
+.solgon{
+  color: blue;
+  text-align: center;
+}
+
+.btn btn-lg btn-success{
+  
+}
+
+.pictures img{
+  width: 200px;
+  height: 200px;
+}
