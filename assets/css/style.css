@@ -15,22 +15,25 @@
   list-style-type: none;
   text-align: right;
   padding: 20px;
-  margin: 2;
- 
-}
-
-a{
+  margin: 2px;
+  }
+  
+.a{
   text-decoration-line: none;
-   
-}
+  }
+
+  .a:hover{
+    text-decoration-line: none;
+  }
 
 ul li{
-   display: inline;
+  display: inline;
   padding: 3px 10px;
+  text-decoration-line: none;
 }
 
 .heading {
-   color: red;
+  color: red;
   text-align: center;
   margin: 5px;
 }
@@ -98,9 +101,22 @@ p{
 
 .btn:hover{
   background-color: #0c8d62;
-}
+  }
 
 .top{
   color: black;
+  position: fixed;
+  top: 90%;
+  left: 90%;
+  padding: 5px 10px;
+  background-color: #0c8d62;
+  letter-spacing: 2px;
+  border-radius: 5px;
+  text-decoration-line: none;
+}
+
+.top:hover{
+  text-decoration-line: none;
+  background-color: #6bb376;
 }
 
