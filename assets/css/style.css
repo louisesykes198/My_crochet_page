@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito Sans|Lato:300');
 @import "../node_modules/bootstrap/scss/bootstrap";
 @import "bootstrap/scss/functions";
 
 .body{
   background-color: #0ba0e0;
-  font-family: "Nunito Sans", sans-serif;
+  font-family: 'Noto Sans', Times, serif;
 }
 
 .background{
@@ -12,7 +11,7 @@
   
 }
 
-.nav_list{
+.nav_list {
   list-style-type: none;
   text-align: right;
   padding: 20px;
@@ -26,27 +25,19 @@ a{
 }
 
 ul li{
-  display: inline;
-  padding: 10px;
+   display: inline;
+  padding: 3px 10px;
 }
 
-.page_1 {
+.heading {
    color: red;
   text-align: center;
-}
-.page_2 {
-   color: red;
-  text-align: center;
+  margin: 5px;
 }
 
-.page_3 {
-   color: red;
-  text-align: center;
-}
-
-.page_4 {
-   color: red;
-  text-align: center;
+p{
+  padding:0px 10px;
+  margin: 5px;
 }
 
 .sub_headings{
@@ -56,9 +47,60 @@ ul li{
 .solgon{
   color: blue;
   text-align: center;
+  text-size-adjust:inherit
 }
 
 .pictures img{
   width: 200px;
   height: 200px;
 }
+
+#message{
+  width: 300px;
+  height: 200px;
+}
+
+#email{
+  width: 300px;
+  }
+
+#fname{
+  width: 300px;
+  }
+
+#lname{
+  width: 300px;
+  }
+
+#address{
+  width: 300px;
+  }
+
+#submit{
+  width: 100px;
+  height: 30px;
+  background-color: #6bb376;
+  color: white;
+}
+
+#submit:hover {
+  background-color: #0c8d62;
+}
+
+.fields{
+  margin: 20px;
+}
+
+.btn{
+  margin: 5px;
+  background-color: #6bb376;
+}
+
+.btn:hover{
+  background-color: #0c8d62;
+}
+
+.top{
+  color: black;
+}
+
