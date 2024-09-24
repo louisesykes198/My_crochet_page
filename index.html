@@ -12,14 +12,26 @@
  <!-- home_page -->
 <body>
   <header>
-  <nav>
-        <ul id="nav_list">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="#about">About Us</li>
-        <li><a href="#gallery">Gallery</a></li>
-        <li><a href="#contact_me">Contact Me</a></li>
-      </ul>
-     
+     <!-- nvabar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <img src="images/images/crochet_logo2.png" alt="logo" class="logo">
+        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span></button>
+       
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav ml-auto">
+          <li class="nav-item"><a href="index.html">Home</a></li>
+          <li class="nav-item"><a href="#about">About Us</a></li>
+          <li class="nav-item"><a href="#gallery">Gallery</a></li>
+          <li class="nav-item"><a href="#contact_me">Contact Me</a></li>
+        </ul>
+           </div>
+      </div>
+              </nav>
+               <!-- /navbar -->
+        </header>
+         <!-- heading and solgan -->
      <artical class="container" >
     <section id="section_one">
       <h1 class="heading">My Crochet Page</h1>
@@ -30,12 +42,12 @@
           <a href="learn_more.html" class="btn btn-lg" role="button">Learn More</a>
          
       </div>
+      <!-- /.heading and solgon -->
     </section>
+    
+        </div>
   </artical>
-    </div>
-    </div>
- </nav>
-</header>
+
     <!-- /.home_page -->
     <hr>
    
@@ -79,7 +91,7 @@
                     
                 </div>
             </div>
-        </div>
+               
       </section> 
          
 </section>
@@ -109,6 +121,7 @@
         <img src="/images/images/owl.jpg" alt="owl">
         <img src="/images/images/owl_2.jpg" alt="owl 2">
         
+        
       </section>
        <!--/. Gallery -->  
        <hr>
@@ -128,16 +141,15 @@
           <input type="text" id="email" name="email" required><br>
           <label for="message">Message:</label><br>
           <input type="text" id="message" name="message" required><br>
-          <input type="submit" id="submit" value="Submit">
+          <a href="#" class="btn btn-lg" role="button">Submit</a>
         </form>
              </section>
              <!--/. Contact Form--> 
-      <p><a href="#top" class="top" >Back to Top</a></p>
-    
+             <div class="text-right">
+             <a href="#top" class="btn btn-lg" role="button">Back to Top</a>
+             </div>
   </header>
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
-  <script src="https://kit.fontawesome.com/2054bc8968.js" crossorigin="anonymous"></script>
+  
   <footer>
 
     <ul id="footer_links">
@@ -155,5 +167,10 @@
       <li><a href="https://www.whatsapp.com" target="_blank"><i class="fa-brands fa-whatsapp"></i></a></li>
 </ul>
   </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/2054bc8968.js" crossorigin="anonymous"></script>
+
 </body>
 </html>
