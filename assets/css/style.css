@@ -9,30 +9,28 @@ html body{
  
   }
 
-  .body_image{
-background-image: url("/images/images/wool_and_sticks.jpg");
-  }
-  
  
-#nav_list {
+#nav_item {
   list-style-type: none;
   text-align: right;
     justify-content: flex-end;
-   padding-top: 5px;
+   padding-top: 100px;
     background:transparent;
      }
 
      .logo{
-      width: 140px;
+      width: 100px;
      }
 
      .container-fluid{
       margin-bottom: 0;
       width:100%;
+   
       background-color: white;
       border: 0;
       font-size:large;
          }
+    
 
          .navbar-brand{
           width: auto;
@@ -41,8 +39,7 @@ background-image: url("/images/images/wool_and_sticks.jpg");
         
 
   #section_one{
-  padding-top: 250px;
-    padding-bottom: 200px;
+height: 100vh;
     background-image: url("/images/images/wool_and_sticks.jpg");
   background-repeat: no-repeat;
   margin: 0;
@@ -50,12 +47,14 @@ background-image: url("/images/images/wool_and_sticks.jpg");
   }
 
   
-  .about{
+  .container-about{
+    height: 100vh;
     padding-top: 150px;
     padding-bottom: 200px;
   }
   
-  .pictures{
+  .container-gallery{
+    height: 100vh;
     padding-top: 150px;
     padding-bottom: 200px;
   }
