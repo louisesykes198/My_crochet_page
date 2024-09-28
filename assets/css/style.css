@@ -1,176 +1,64 @@
-@import "../node_modules/bootstrap/scss/bootstrap";
-@import "bootstrap/scss/functions";
-
-html body{
+body{
   margin: 0;
   padding: 0;
   font-family: "Nunito Sans", sans-serif;
   box-sizing: border-box;
+  background-color: rgb(204, 234, 248);
    }
- 
-#nav_item {
-  list-style-type: none;
+  .navbar ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    }
+.navbar-text{
+  float: left;
+}
+.navbar a{
+  color: rgb(24, 23, 23);
+  text-decoration: none;
   text-align: right;
-    justify-content: flex-end;
-   padding-top: 100px;
-    background:transparent;
-     }
-
-     .logo{
-      width: 100px;
-     }
-
-     .container-fluid{
-      margin-bottom: 0;
-      width:100%;
-      background-color: white;
-      border: 0;
-      font-size:large;
-      }
-    
-      .navbar-brand{
-         width: auto;
-         height: 100%;
-      }
-        
-
-  .container-heading {
-    height: 100vh;
-    background-image: url("/images/images/wool_and_sticks.jpg");
-     background-repeat: no-repeat;
-     margin: 0;
-     background-size: cover;
-     padding-top: 250px;
-  }
-  
-  .container-about{
-    height: 100vh;
-    padding-top: 150px;
-    padding-bottom: 200px;
-  }
- 
-  container-learn-more{
-    padding-top: 150px;
-    padding-bottom: 200px;
-  }
-
-  .contact-form{
-    padding-top: 150px;
-    padding-bottom: 200px;
-  }
- 
-.a{
-  text-decoration-line: none;
-  }
-
-  .a:hover{
-    text-decoration-line: none;
-  }
-
-  ul li{
-    display: inline;
-    padding: 3px 10px;
-    text-decoration-line: none;
-  }
-
-.heading {
-  color: red;
-  text-align: center;
-  margin: 5px;
-}
-
-p{
-  padding:0px 10px;
-  margin: 5px;
-}
-
-.sub_headings{
-  color: green;
-}
-
-.solgon{
-  color: blue;
-  text-align: center;
-  text-size-adjust:inherit
-}
-
-.pictures img{
-  width: 200px;
-  height: 200px;
-}
-
-#message{
-  width: 300px;
-  height: 200px;
-}
-
-#email{
-  width: 300px;
-  }
-
-#fname{
-  width: 300px;
-  }
-
-#lname{
-  width: 300px;
-  }
-
-#address{
-  width: 300px;
-  }
-
-#submit{
-  width: 100px;
-  height: 30px;
-  background-color: #6bb376;
-  color: white;
-}
-
-#submit:hover {
-  background-color: #0c8d62;
-}
-
-.fields{
-  margin: 20px;
-}
-
-.btn{
-  margin: 5px;
-  background-color: #6bb376;
+   letter-spacing: 2px;
+  padding: 10px;
+  float: left;
  }
-
-.btn:hover{
-  background-color: #0c8d62;
-  }
-
-.text-right{
-  background-color: #0c8d62;
-  position:fixed;
-  top: 90%;
-  left: 90%;
+.navbar a:hover{
+  background-color: rgb(200, 200, 206);
+  border-radius: 50%;
+ }
+.logo{
+  width: 100px;
+  border-radius: 0;
 }
-
-.text-right:hover{
-   background-color: #6bb376;
+.container-heading {
+  height: 100%;
+   background-repeat: no-repeat;
+   margin: 0;
+   background-size: cover;
+   padding-top: 220px;
+   padding-bottom: 220px;
+  color: #0c8d62;
 }
-
-footer {
+.container-about{
+  height: 100%;
+  padding-top: 220px;
+  padding-bottom: 250px;
+  
+}
+.container-about h2{
   text-align: center;
-  padding: 40px;
-  background-color: rgb(248, 246, 245);
-  color: white;
-  height: 150px;
+}
+.container-about p{
+  text-align: left;
+  margin-left: 10px;
+}
+.container-about ol{
+  text-align: left;
+}
+container-learn-more{
+  height: 100%;
   }
-
-footer p {    
-  display: inline-block;    
-  vertical-align: middle;
+  container-learn-more h1{
+    text-align: center;
 }
-
-footer i{
-  font-size: 160%;
-  padding: 2%;
-  color: rgb(136, 137, 139);
-}
-
+  
