@@ -1,27 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
 
-
 body{
   margin: 0;
   padding: 0;
   font-family: "Fredoka", sans-serif;
   box-sizing: border-box;
   background-color: rgb(204, 234, 248);
+  background-image: url);
    }
-  .navbar ul{
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
-    }
+.navbar ul{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
 .navbar-text{
   float: left;
 }
 .navbar a{
   color: rgb(24, 23, 23);
   text-decoration: none;
-  text-align: right;
-   letter-spacing: 2px;
+  letter-spacing: 2px;
   padding: 10px;
   float: left;
  }
@@ -48,7 +47,7 @@ body{
   padding-bottom: 250px;
   font-size: medium; 
   background-color: rgb(207, 216, 228);
-  }
+    }
 .container-about h2{
   font-size: 40px;
   color: rgb(26, 27, 27);
@@ -144,15 +143,22 @@ body{
   margin:20px;
 }
 .contact-container{
-height: 100vh;
-align-items: left;
-background-color: rgb(207, 216, 228);
-background-size: cover;
-width: 100%;
-padding: 100px;
-}
+  
+  align-items: left;
+  background-color: rgb(207, 216, 228);
+  background-image: url(https://www.brooklinelibrary.org/wp-content/uploads/2023/02/DRAFT-knitting-and-crochet-for-all-social-media-March-2023-1024x1024.png);
+  background-size: cover;
+  width: 100%;
+  padding: 100px;
+  }
+  height: 100vh;
 .contact-form{
    align-items: center;
+   
+   background-repeat: no-repeat;
+   background-size: cover;
+   width: 100;
+   height: 100vh;
  }
 .contact-left-title h2{
   font-weight: 600;
@@ -202,20 +208,28 @@ padding: 100px;
 align-items:  left;
 width: 100%;
 }
-.btn{
-  margin: 5px;
-  background-color: #6bb376;
- }
-.btn:hover{
-  background-color: #0c8d62;
-  }
-.to-top{
-  position:fixed;
-  top: 90%;
-  left: 90%;
+.to-top {
+  background: white;
+  position: fixed;
+  bottom: 16px;
+  right:32px;
+  width:50px;
+  height:50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size:32px;
+  color:#1f1f1f;
+  text-decoration: none;
+  opacity:0;
+  pointer-events: none;
+  transition: all .4s;
 }
-.to-top:hover{
-   background-color: #6bb376;
+.to-top.active {
+  bottom:32px;
+  pointer-events: auto;
+  opacity:1;
 }
 footer{
   text-align: center;
