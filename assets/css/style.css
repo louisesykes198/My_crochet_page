@@ -6,8 +6,7 @@ body{
   font-family: "Fredoka", sans-serif;
   box-sizing: border-box;
   background-color: rgb(204, 234, 248);
-  background-image: url);
-   }
+}
 .navbar ul{
   list-style-type: none;
   padding: 0;
@@ -23,9 +22,10 @@ body{
   letter-spacing: 2px;
   padding: 10px;
   float: left;
+  font-size: 20px;
  }
 .navbar a:hover{
-  background-color: rgb(200, 200, 206);
+  background-color: rgb(221, 152, 248);
   border-radius: 50%;
  }
 .logo{
@@ -33,20 +33,38 @@ body{
   border-radius: 0;
 }
 .container-heading {
-  height: 100%;
+  background-image: url(https://img.freepik.com/free-photo/view-blue-pom-poms-with-copy-space_23-2149482971.jpg?t=st=1727688700~exp=1727692300~hmac=25ff4f6e6796c7718f546c992be8dc56f2ed48fd634d95a7037d1858691ae2f4&w=1380);
+  height: 100vh;
    background-repeat: no-repeat;
    margin: 0;
    background-size: cover;
    padding-top: 250px;
    padding-bottom: 400px;
-  color: #0c8d62;
+  }
+.container-heading h1{
+  color: #b64eca;
+  font-size: 60px;
+}
+.container-heading h2{
+  color: #e081f3;
+  font-size: 40px;
+}
+.container-heading a{
+  color: #0d0d0e;
+  font-size: 20px;
+  width: 200px;
+  height: 50px;
+  background-color: #a4bdf3;
+}
+.container-heading a:hover{
+  background-color: rgb(135, 135, 245);
 }
 .container-about{
   height: 100%;
   padding-top: 220px;
   padding-bottom: 250px;
   font-size: medium; 
-  background-color: rgb(207, 216, 228);
+  background-color: rgb(203, 220, 243);
     }
 .container-about h2{
   font-size: 40px;
@@ -132,6 +150,9 @@ body{
 .container-learn-more{
   height: 100%;
   padding: 20px;
+  background-image: url(https://st.depositphotos.com/1177973/4909/i/450/depositphotos_49096609-stock-photo-colorful-clews-and-crochet-hook.jpg);
+  background-size: 100vh;
+  background-size: cover;
   }
 .container-learn-more h1{
   text-align: center;
@@ -143,18 +164,16 @@ body{
   margin:20px;
 }
 .contact-container{
-  
   align-items: left;
   background-color: rgb(207, 216, 228);
-  background-image: url(https://www.brooklinelibrary.org/wp-content/uploads/2023/02/DRAFT-knitting-and-crochet-for-all-social-media-March-2023-1024x1024.png);
+  background-image: url(https://img.freepik.com/free-photo/balls-wool_155003-2442.jpg);
   background-size: cover;
   width: 100%;
-  padding: 100px;
-  }
+  padding: 150px;
   height: 100vh;
-.contact-form{
+  }
+ .contact-form{
    align-items: center;
-   
    background-repeat: no-repeat;
    background-size: cover;
    width: 100;
@@ -166,6 +185,7 @@ body{
   font-size: 40px;
   margin-bottom: 25px;
   text-align: center;
+  margin-top: 35px;
 }
 .contact-input{
   border-radius: 5px;
@@ -189,14 +209,14 @@ body{
 #address{
   width: 300px;
   }
-#submit{
-  width: 50px;
-  height: 30px;
-  background-color: #6bb376;
-  color: white;
+.btn{
+  width: 80px;
+  height: 40px;
+  background-color: #a4bdf3;
+  color: rgb(20, 20, 20);
 }
-#submit:hover {
-  background-color: #0c8d62;
+.btn:hover {
+  background-color: rgb(135, 135, 245);
 }
 .fields{
   margin: 20px;
@@ -209,7 +229,7 @@ align-items:  left;
 width: 100%;
 }
 .to-top {
-  background: white;
+  background: rgb(135, 135, 245);
   position: fixed;
   bottom: 16px;
   right:32px;
@@ -220,7 +240,7 @@ width: 100%;
   align-items: center;
   justify-content: center;
   font-size:32px;
-  color:#1f1f1f;
+  color:#a4bdf3;;
   text-decoration: none;
   opacity:0;
   pointer-events: none;
@@ -239,7 +259,7 @@ footer{
   height: 150px;
   }
   footer{
-    background-color: rgb(214, 209, 209);
+    background-color: white;
   }
   footer a{
     display: inline-block;    
@@ -252,7 +272,7 @@ footer{
     font-size: 20px;
   }
   footer a:hover{
-    background-color: rgb(172, 172, 180);
+    background-color: rgb(221, 152, 248);
     border-radius: 50%
   }
 footer li {    
