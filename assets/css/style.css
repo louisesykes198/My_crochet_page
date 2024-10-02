@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
 
 body{
+  width: 100%;
   margin: 0;
   padding: 0;
   font-family: "Fredoka", sans-serif;
@@ -33,36 +34,41 @@ body{
   border-radius: 0;
 }
 .container-heading {
-  background-image: url(https://img.freepik.com/free-photo/view-blue-pom-poms-with-copy-space_23-2149482971.jpg?t=st=1727688700~exp=1727692300~hmac=25ff4f6e6796c7718f546c992be8dc56f2ed48fd634d95a7037d1858691ae2f4&w=1380);
+  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20220314/pngtree-warm-background-material-color-wool-ball-image_1055093.jpg);
   height: 100vh;
    background-repeat: no-repeat;
    margin: 0;
    background-size: cover;
-   padding-top: 250px;
+   padding-top: 350px;
    padding-bottom: 400px;
   }
 .container-heading h1{
-  color: #b64eca;
+  text-align: center;
+  width: 100%;
+  color: #9f1cb9;
   font-size: 60px;
 }
 .container-heading h2{
-  color: #e081f3;
+  text-align: center;
+  width: 100%;
+  color: #d449f0;
   font-size: 40px;
 }
 .container-heading a{
   color: #0d0d0e;
-  font-size: 20px;
-  width: 200px;
-  height: 50px;
+  font-size: 16px;
+  width: 155px;
+  height: 45px;
   background-color: #a4bdf3;
 }
 .container-heading a:hover{
   background-color: rgb(135, 135, 245);
 }
 .container-about{
+  width: 100%;
   height: 100%;
   padding-top: 220px;
-  padding-bottom: 250px;
+  padding-bottom: 200px;
   font-size: medium; 
   background-color: rgb(203, 220, 243);
     }
@@ -148,10 +154,11 @@ body{
   background-color: rgb(107, 180, 240);
 }
 .container-learn-more{
+  width: 100%;
   height: 100%;
   padding: 20px;
   background-image: url(https://st.depositphotos.com/1177973/4909/i/450/depositphotos_49096609-stock-photo-colorful-clews-and-crochet-hook.jpg);
-  background-size: 100vh;
+  background-size: 75vh;
   background-size: cover;
   }
 .container-learn-more h1{
@@ -169,28 +176,26 @@ body{
   background-image: url(https://img.freepik.com/free-photo/balls-wool_155003-2442.jpg);
   background-size: cover;
   width: 100%;
-  padding: 150px;
-  height: 100vh;
+  height: 75vh;
+  padding-left: 20px;
   }
  .contact-form{
    align-items: center;
-   background-repeat: no-repeat;
-   background-size: cover;
-   width: 100;
-   height: 100vh;
- }
-.contact-left-title h2{
+   }
+.contact-title h1{
   font-weight: 600;
   color:rgb(5, 5, 5);
   font-size: 40px;
   margin-bottom: 25px;
-  text-align: center;
+  text-align: left;
   margin-top: 35px;
 }
 .contact-input{
+  width: 100%;
   border-radius: 5px;
 }
 .contact-text{
+  width: 100%;
   margin-bottom: 5px;
 } 
 #message{
@@ -218,16 +223,6 @@ body{
 .btn:hover {
   background-color: rgb(135, 135, 245);
 }
-.fields{
-  margin: 20px;
-}
-.container-contact h1{
-  text-align: right;
-}
-.contact-right{
-align-items:  left;
-width: 100%;
-}
 .to-top {
   background: rgb(135, 135, 245);
   position: fixed;
@@ -254,14 +249,12 @@ width: 100%;
 footer{
   text-align: center;
   padding: 40px;
+  padding-bottom: 0;
   background-color: rgb(248, 246, 245);
   color: white;
   height: 150px;
   }
-  footer{
-    background-color: white;
-  }
-  footer a{
+   footer a{
     display: inline-block;    
     vertical-align: middle;
     text-decoration: none;
@@ -287,4 +280,4 @@ footer i{
   align-items: center;
 }
 
-  
+
