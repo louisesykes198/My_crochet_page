@@ -8,6 +8,7 @@ body{
   box-sizing: border-box;
   background-color: rgb(204, 234, 248);
 }
+/* Navigation bar */
 .navbar ul{
   list-style-type: none;
   padding: 0;
@@ -29,10 +30,12 @@ body{
   background-color: rgb(221, 152, 248);
   border-radius: 50%;
  }
+ /* Logo */
 .logo{
   width: 100px;
   border-radius: 0;
 }
+/* Landing Page */
 .container-heading {
   background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20220314/pngtree-warm-background-material-color-wool-ball-image_1055093.jpg);
   height: 100vh;
@@ -64,6 +67,7 @@ body{
 .container-heading a:hover{
   background-color: rgb(135, 135, 245);
 }
+/* About Page */
 .container-about{
   width: 100%;
   height: 100%;
@@ -130,13 +134,12 @@ body{
   background-color: rgb(210, 230, 245);
   padding: 60px 30px;
   text-align: center;
-  box-shadow: 0 0 0 9 rgba(0,0,0 .6);
-  }
+   }
 .container-2{
   margin: 20px 10px 20px 10px;
   background-color: rgb(210, 230, 245);
   padding: 70px 30px;
-  box-shadow: 0 0 0 9 rgba(0,0,0 .6);
+  ;
 }
 .container-3{
   margin: 20px 20px 30px 20px;
@@ -153,6 +156,7 @@ body{
 .container-3:hover{
   background-color: rgb(107, 180, 240);
 }
+/* Learn More Page */
 .container-learn-more{
   width: 100%;
   height: 100%;
@@ -170,8 +174,8 @@ body{
 .sub_headings{
   margin:20px;
 }
+/* Contact Form */
 .contact-container{
-  align-items: left;
   background-color: rgb(207, 216, 228);
   background-image: url(https://img.freepik.com/free-photo/balls-wool_155003-2442.jpg);
   background-size: cover;
@@ -214,6 +218,7 @@ body{
 #address{
   width: 300px;
   }
+/*Submit Button  */
 .btn{
   width: 80px;
   height: 40px;
@@ -223,6 +228,7 @@ body{
 .btn:hover {
   background-color: rgb(135, 135, 245);
 }
+/* Back to Top Button  */
 .to-top {
   background: rgb(135, 135, 245);
   position: fixed;
@@ -243,9 +249,10 @@ body{
 }
 .to-top.active {
   bottom:32px;
-  pointer-events: auto;
+  pointer-events:all;
   opacity:1;
 }
+/* Footer  */
 footer{
   text-align: center;
   padding: 40px;
