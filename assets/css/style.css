@@ -37,21 +37,31 @@ body{
 }
 /* Landing Page */
 .container-heading {
-   margin: 0;
-   padding-top: 350px;
-   padding-bottom: 200px;
-  }
+  margin: 0;
+  padding-top: 350px;
+  padding-bottom: 200px;
+ }
 .container-heading h1{
-  text-align: center;
-  width: 100%;
-  color: #383738;
-  font-size: 60px;
+ text-align: center;
+ width: 100%;
+ color: #383738;
+ font-size: 60px;
 }
 .container-heading h2{
-  text-align: center;
-  width: 100%;
-  color: #383738;
-  font-size: 40px;
+ text-align: center;
+ width: 100%;
+ color: #383738;
+ font-size: 40px;
+}
+.container-heading a{
+ color: #0d0d0e;
+ font-size: 16px;
+ width: 155px;
+ height: 45px;
+ background-color: #a4bdf3;
+}
+.container-heading a:hover{
+ background-color: rgb(135, 135, 245);
 }
 .container-heading a{
   color: #0d0d0e;
@@ -165,7 +175,7 @@ body{
   width: 100%;
   padding-left: 20px;
   padding-top: 25px;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
    }
  .contact-form{
    align-items: center;
@@ -239,7 +249,6 @@ body{
 /* Footer  */
 footer{
   text-align: center;
-  padding: 40px;
   background-color: rgb(248, 246, 245);
   color: white;
   height: 130px;
@@ -250,7 +259,7 @@ footer{
     text-decoration: none;
     text-align: center;
     letter-spacing: 2px;
-    padding: 5px;
+    padding: 4px;
     color: black;
     font-size: 20px;
   }
@@ -269,5 +278,27 @@ footer i{
   color: rgb(91, 92, 95);
   align-items: center;
 }
-
-
+@media screen and (max-width: 800px){
+  #index.html{
+      width: 65%;
+      height: 1200px;
+      margin: 0 auto;
+  }
+  #about {
+    padding: 30px 0;
+    margin-top: 0;
+}
+#learn-more {
+    width:100%;
+    float:left;
+    padding: 0;
+}
+#contact_me{
+    clear: both;
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+#footer{
+  width: 100%;
+}
