@@ -6,7 +6,7 @@ body{
   padding: 0;
   font-family: "Fredoka", sans-serif;
   box-sizing: border-box;
-  background-color: rgb(204, 234, 248);
+  background-color: rgb(203, 220, 243);
 }
 /* Navigation bar */
 .navbar ul{
@@ -27,7 +27,7 @@ body{
   font-size: 20px;
  }
 .navbar a:hover{
-  background-color: rgb(221, 152, 248);
+  background-color: rgb(183, 181, 184);
   border-radius: 50%;
  }
  /* Logo */
@@ -37,24 +37,20 @@ body{
 }
 /* Landing Page */
 .container-heading {
-  background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20220314/pngtree-warm-background-material-color-wool-ball-image_1055093.jpg);
-  height: 100vh;
-   background-repeat: no-repeat;
    margin: 0;
-   background-size: cover;
    padding-top: 350px;
-   padding-bottom: 400px;
+   padding-bottom: 200px;
   }
 .container-heading h1{
   text-align: center;
   width: 100%;
-  color: #9f1cb9;
+  color: #383738;
   font-size: 60px;
 }
 .container-heading h2{
   text-align: center;
   width: 100%;
-  color: #d449f0;
+  color: #383738;
   font-size: 40px;
 }
 .container-heading a{
@@ -93,28 +89,28 @@ body{
   text-align: center;
 }
 .about-1 h3{
-  color: blueviolet;
+  color: rgb(26, 27, 27);
 }
 .about-1 p{
-  color: blueviolet;
+  color: rgb(26, 27, 27);
 }
 .about-2{
   text-align: center;
 }
 .about-2 h3{
-  color: blueviolet;
+  color: rgb(26, 27, 27);
 }
 .about-2 p{
-  color: blueviolet;
+  color: rgb(26, 27, 27);
 }
 .about-3{
   text-align: center;
 }
 .about-3 h3{
-  color: blueviolet;
+  color: rgb(26, 27, 27);
 }
 .about-3 li{
-  color: blueviolet;
+  color: rgb(26, 27, 27);
 }
 .container-about h2{
   text-align: center;
@@ -131,39 +127,28 @@ body{
 }
 .container-1{
   margin: 20px 20px 40px 20px;
-  background-color: rgb(210, 230, 245);
+  background-color: rgb(179, 217, 247);
   padding: 60px 30px;
   text-align: center;
    }
 .container-2{
   margin: 20px 10px 20px 10px;
-  background-color: rgb(210, 230, 245);
+  background-color: rgb(179, 217, 247);
   padding: 70px 30px;
   ;
 }
 .container-3{
   margin: 20px 20px 30px 20px;
-  background-color: rgb(210, 230, 245);
+  background-color: rgb(179, 217, 247);
   padding-top: 70px;
   padding-bottom: 70px;
  }
-.container-1:hover{
-  background-color: rgb(107, 180, 240);
-}
-.container-2:hover{
-  background-color: rgb(107, 180, 240);
-}
-.container-3:hover{
-  background-color: rgb(107, 180, 240);
-}
 /* Learn More Page */
 .container-learn-more{
   width: 100%;
   height: 100%;
-  padding: 20px;
-  background-image: url(https://st.depositphotos.com/1177973/4909/i/450/depositphotos_49096609-stock-photo-colorful-clews-and-crochet-hook.jpg);
-  background-size: 75vh;
-  background-size: cover;
+  padding-left: 30px;
+  padding-bottom: 250px;
   }
 .container-learn-more h1{
   text-align: center;
@@ -176,13 +161,12 @@ body{
 }
 /* Contact Form */
 .contact-container{
-  background-color: rgb(207, 216, 228);
-  background-image: url(https://img.freepik.com/free-photo/balls-wool_155003-2442.jpg);
-  background-size: cover;
+  background-color: rgb(203, 220, 243);
   width: 100%;
-  height: 75vh;
   padding-left: 20px;
-  }
+  padding-top: 25px;
+  padding-bottom: 30px;
+   }
  .contact-form{
    align-items: center;
    }
@@ -218,7 +202,7 @@ body{
 #address{
   width: 300px;
   }
-/*Submit Button  */
+/*Submit Button*/
 .btn{
   width: 80px;
   height: 40px;
@@ -228,7 +212,7 @@ body{
 .btn:hover {
   background-color: rgb(135, 135, 245);
 }
-/* Back to Top Button  */
+/* Back to Top Button*/
 .to-top {
   background: rgb(135, 135, 245);
   position: fixed;
@@ -256,10 +240,9 @@ body{
 footer{
   text-align: center;
   padding: 40px;
-  padding-bottom: 0;
   background-color: rgb(248, 246, 245);
   color: white;
-  height: 150px;
+  height: 130px;
   }
    footer a{
     display: inline-block;    
@@ -272,7 +255,7 @@ footer{
     font-size: 20px;
   }
   footer a:hover{
-    background-color: rgb(221, 152, 248);
+    background-color: rgb(183, 181, 184);
     border-radius: 50%
   }
 footer li {    
