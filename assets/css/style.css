@@ -37,10 +37,13 @@ body{
 }
 /* Landing Page */
 .container-heading {
-  margin: 0;
-  padding-top: 350px;
-  padding-bottom: 200px;
- }
+margin: 0;
+padding-top: 350px;
+padding-bottom: 200px;
+background-image: url(https://img.freepik.com/free-photo/top-view-blue-pom-poms-with-copy-space_23-2149482973.jpg?uid=R166674164&ga=GA1.1.84786691.1724330677&semt=ais_hybrid); 
+background-size: cover; 
+background-repeat: no-repeat, repeat;
+}
 .container-heading h1{
  text-align: center;
  width: 100%;
@@ -66,7 +69,7 @@ body{
 .container-heading a{
   color: #0d0d0e;
   font-size: 16px;
-  width: 155px;
+  width: 160px;
   height: 45px;
   background-color: #a4bdf3;
 }
@@ -177,10 +180,7 @@ body{
   padding-top: 25px;
   padding-bottom: 40px;
    }
- .contact-form{
-   align-items: center;
-   }
-.contact-title h1{
+ .contact-title h1{
   font-weight: 600;
   color:rgb(5, 5, 5);
   font-size: 40px;
@@ -192,9 +192,15 @@ body{
   width: 100%;
   border-radius: 5px;
 }
-.contact-text{
+contact-text-1{
   width: 100%;
-  margin-bottom: 5px;
+  height: 300px;
+}
+textarea{
+  width: 300px;
+}
+.contact-text{
+  width: 100;
 } 
 #message{
   width: 300px;
@@ -216,6 +222,7 @@ body{
 .btn{
   width: 80px;
   height: 40px;
+  margin-bottom: 10px;
   background-color: #a4bdf3;
   color: rgb(20, 20, 20);
 }
@@ -278,27 +285,26 @@ footer i{
   color: rgb(91, 92, 95);
   align-items: center;
 }
-@media screen and (max-width: 800px){
+@media screen and (min-width: 400px) and (max-width: 900px){
   #index.html{
-      width: 65%;
-      height: 1200px;
-      margin: 0 auto;
-  }
-  #about {
-    padding: 30px 0;
-    margin-top: 0;
-}
-#learn-more {
-    width:100%;
-    float:left;
-    padding: 0;
-}
-#contact_me{
-    clear: both;
+    background-color: rgb(203, 220, 243);
     width: 100%;
-    float: left;
-    padding: 0;
+  }
 }
-#footer{
+.page-2{
+  text-align: center;
   width: 100%;
+  color: #383738;
+  font-size: 60px;
+}
+.page-3{
+  text-align: center;
+  width: 100%;
+  color: #383738;
+  font-size: 40px;
+}
+.page-4{
+  margin-top: 30px;
+padding-top: 350px;
+padding-bottom: 200px;
 }
