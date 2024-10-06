@@ -79,11 +79,6 @@ This site is for user who want to start there crochet journey. They can learn wh
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-<<<<<<< HEAD
-[View](![alt text](image.png))
-[W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)      
-=======
->>>>>>> 7879628047de045250f66316fd9b45ab6730fa55
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
@@ -102,3 +97,125 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         1. The navigation bar is clear labled so the user knows which part of the page they will be taken to.
         2. Tere is a "Back nto Top " call for action button that appears when you ether scroll or click a navigation button that will return the user back to the top of the page.
         3. On the Contact Me Page, when the user has filled in the require text areas and click on the submit button it will take them to a page that says "Thank you your question will be answered shortly".
+
+-   #### Returning Visitor Goals
+
+      As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+
+        1. The navigation bar clearly highlights the "Contact Me" Page.
+        2. Here they can fill out the contact me form on the page with the question they want an answer too. 
+        3. The footer contains links to the organisations Facebook, github and Whatsapp page as well as youtube link to find helpful videos.
+        4. No matter which link they click on, it will be open in a new tab to make sure the user can get back to the website.
+    
+     As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+
+        1. The Facebook Page appears in the footer at the bottom of the page. Clicking on it will cause the user to open a new tab where they may get additional information.
+        
+-   #### Frequent User Goals
+
+     As a Frequent User, I want to check to see if there are any new information added.
+
+     The user would be familiar with the website layout so would find where the information and links are on the page.
+
+### Further Testing
+
+-   The Website was tested on Google Chrome, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, samsung galaxy A12, samsung galaxy s22 & iPhoneSE.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+Gemma Stead (sister) said Webpage works well lots of writen details. I like the overall look.
+
+Lindsey Combs (sister) wrote Overall, the website has a pleasant, simple look with room to add more information and images.
+
+Sarah M (work colleague) said 
+
+### Known Bugs
+
+On some mobile devices the "Ask a question?" button the words came out of the box. 
+
+Performance, Accessibility, Best Practice and SEO checked on.
+ PageSpeed Insights for Mobile 
+
+https://pagespeed.web.dev/analysis/https-louisesykes198-github-io-My_crochet_page/93u2tsxqye?form_factor=mobile
+
+PageSpeed Insights for desktop
+
+https://pagespeed.web.dev/analysis/https-louisesykes198-github-io-My_crochet_page/93u2tsxqye?form_factor=desktop
+## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    
+3. Alternatively Click [Here](https://github.com/louisesykes198/My_crochet_page) for a GIF demonstrating the process starting from Step 2.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type `git clone`, and then paste the URL you copied in Step 3.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+7. Press Enter. Your local clone will be created.
+
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `CI-Clone`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+
+## Credits
+
+### Code
+
+-   The full-screen background image code came from this [freepik](https://freepik.com)
+
+-   [Bootstrap4](https://getbootstrap.com/docs/5.3.3/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+
+-   [Back to Top button](https://www.youtube.com/watch?v=SJVCvnKM_lI) : For "Back to Top" button I used this vidoe fron youtube for the tutorial.
+### Content
+
+-   All content was written by the developer.
+
+-   The learn more page information was created by [chatgpt.com](https://chatgpt.com/)
+
+### Media
+
+-   All Images were created by the [fontawesome](https://fontawesome.com/)
+
+### Acknowledgements
+
+-   My Mentor for continuous helpful feedback.
+
+-   Tutor support at Code Institute for their support.
+
+-   GTCoding for "Back to Top" button 
+
+-   Family and Friends for feed back
