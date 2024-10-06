@@ -40,7 +40,7 @@ body{
 margin: 0;
 padding-top: 350px;
 padding-bottom: 200px;
-background-image: url(https://img.freepik.com/free-photo/top-view-blue-pom-poms-with-copy-space_23-2149482973.jpg?uid=R166674164&ga=GA1.1.84786691.1724330677&semt=ais_hybrid); 
+background-image: url(https://img.freepik.com/free-vector/cloud-background_91008-382.jpg); 
 background-size: cover; 
 background-repeat: no-repeat, repeat;
 }
@@ -57,20 +57,11 @@ background-repeat: no-repeat, repeat;
  font-size: 40px;
 }
 .container-heading a{
- color: #0d0d0e;
- font-size: 16px;
- width: 155px;
- height: 45px;
- background-color: #a4bdf3;
-}
-.container-heading a:hover{
- background-color: rgb(135, 135, 245);
-}
-.container-heading a{
   color: #0d0d0e;
   font-size: 16px;
-  width: 160px;
-  height: 45px;
+  width: 155px;
+  height: 60px;
+  margin: 0;
   background-color: #a4bdf3;
 }
 .container-heading a:hover{
@@ -285,26 +276,21 @@ footer i{
   color: rgb(91, 92, 95);
   align-items: center;
 }
-@media screen and (min-width: 400px) and (max-width: 900px){
-  #index.html{
-    background-color: rgb(203, 220, 243);
-    width: 100%;
-  }
+.submit-page{
+  margin-top: 30px;
+padding-top: 350px;
+padding-bottom: 200px;
 }
-.page-2{
+.submit-page-heading{
   text-align: center;
   width: 100%;
   color: #383738;
   font-size: 60px;
 }
-.page-3{
+.submit-page-p{
   text-align: center;
   width: 100%;
   color: #383738;
   font-size: 40px;
 }
-.page-4{
-  margin-top: 30px;
-padding-top: 350px;
-padding-bottom: 200px;
-}
+
