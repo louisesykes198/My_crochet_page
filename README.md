@@ -1,5 +1,9 @@
 # My Crochet Page
 
+## Description
+
+Learn what you need to get started and where to begin.
+
 ![image](https://github.com/louisesykes198/My_crochet_page/blob/main/assets/images/viewports.png?raw=true)
 [View the live project here.](https://louisesykes198.github.io/My_crochet_page/)
 ## User Experience (UX)
@@ -51,11 +55,11 @@ The background colour serves as a hero image which is designed to be striking an
 
 ### Wireframes
 
-Desktop Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=91697f7043554f8eb4dd6c33c11f3038&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/c9ec330abf5a472ba4b1836009c9b01c/mode/design)
+Desktop Wireframe - [View](assets/images/desk-top-wireframe.png)
 
-Mobile Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=91697f7043554f8eb4dd6c33c11f3038&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/Db889ae22799549a29dbf8a6036ac84fb/mode/design)
+Mobile Wireframe - [View](assets/images/mobile-wireframe.png)
 
-Tablet and Ipad Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=9199335371b54ed3bb30435c6a739c4e&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/De59d1a70e49d2a039f450db264f64023/mode/design)
+Tablet and Ipad Wireframe - [View](assets/images/tablet-and-ipad-wireframe.png)
 
 ![image](https://github.com/user-attachments/assets/58884465-7e82-4bf2-9c42-373ad4ab8bd1)
 ![image](https://github.com/user-attachments/assets/c9f57b70-98cc-42ba-b9db-34a40e2b5e1c)
@@ -89,7 +93,7 @@ Interactive elements
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [mackflow:](https://mockflow.com/)
+1. [mockflow:](https://mockflow.com/)
     - mockflow was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
