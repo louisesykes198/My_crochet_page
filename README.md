@@ -27,6 +27,9 @@ This site is for user who want to start there crochet journey. They can learn wh
 
 The website, My Crochet Page, presents a clean and minimalist design. Here’s a quick review of the look:
 
+   #### Logo
+   The logo was desgined and downloaded from [Design.com](https://www.design.com/)
+
    #### Colour Scheme
     The two main colours used are Code light blue, and light purple.
     The colors are simple, with a light blue background (which matches your preference) 
