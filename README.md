@@ -55,17 +55,26 @@ This simplicity keeps the focus on the content.
 The Fredoka font is the primary font used throughout the entire website. 
 Sans Serif serves as the backup font in the event that the Fredoka font cannot be properly imported into the website. 
 
-All icons were sourced though Font Awesome
+All icons were sourced though [Font Awesome](https://fontawesome.com/)
 
 ![image](assets/images/icons.png)
 
-All fonts were sourced through Google Fonts
+All fonts were sourced through [Google Fonts](https://fonts.google.com/)
+
+The font that I've selected for my website is simple, modern, and extremely readable; it's meant to communicate both professionalism and warmth. 
+The headlines' bold, Fredoka font draws attention without being unduly harsh, nicely balancing my hero image's simplicity and clarity. 
+The call-to-action and other important places, like my main message, are highlighted by the font's weight.
 
 ![image](assets/images/fonts.png)
 
 #### Imagery
-The background colour serves as a hero image which is designed to be striking and eye catching to intise user's attention. 
+The background image serves as a hero image, which is designed to be striking and eye catching to intise user's attention. The image came from [freepik](https://www.freepik.com/)
 
+My website's hero image is intended to draw attention right away with its modern, stylish appearance. 
+It has a big picture that captures the core values of my brand, giving it an eye-catching and welcoming appearance. 
+A short headline that sums up my message sits in the centre of the image, providing visitors with an instant idea of what they can expect from the website.
+
+![image](assets/images/hero-image.png)
 ### Wireframes
 
 Desktop Wireframe - [View](assets/images/desk-top-wireframe.png)
