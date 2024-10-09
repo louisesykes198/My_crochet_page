@@ -46,11 +46,6 @@ providing a soft, calming effect. This complements a crochet-themed site well.
 The text contrasts well with the background, making it easy to read.
 
 ![image](assets/images/color-palette.png)
-    
-#### Layout:
-The structure is straightforward and user-friendly, with clear sections and no clutter. 
-This simplicity keeps the focus on the content.
-
 #### Typography
 The Fredoka font is the primary font used throughout the entire website. 
 Sans Serif serves as the backup font in the event that the Fredoka font cannot be properly imported into the website. 
@@ -67,6 +62,13 @@ The call-to-action and other important places, like my main message, are highlig
 
 ![image](assets/images/fonts.png)
 
+#### Layout
+
+My website is laid out in a clear, simple, and easy-to-use manner that makes sure users have a seamless experience right away. 
+The hero image, which spans the width of the screen. 
+At the top of the page is the navagation bar which allows users to move around the site with ease.
+There are two call-to-action buttons clearly visible for simple access and takes the user to the part of the site they wish to go to.
+
 #### Imagery
 The background image serves as a hero image, which is designed to be striking and eye catching to intise user's attention. The image came from [freepik](https://www.freepik.com/)
 
@@ -77,6 +79,9 @@ A short headline that sums up my message sits in the centre of the image, provid
 ![image](assets/images/hero-image.png)
 ### Wireframes
 
+The wireframes I’ve created for my website serve as a visual reference for planning and organizing the overall layout of the site. 
+The wireframes allow me to map out the layout of each page, focusing on how visitors will navigate and interact with the content.
+
 Desktop Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/c9ec330abf5a472ba4b1836009c9b01c/mode/design)
 
 Mobile Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/De59d1a70e49d2a039f450db264f64023/mode/design)
@@ -84,6 +89,36 @@ Mobile Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=of
 Tablet and Ipad Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/Db889ae22799549a29dbf8a6036ac84fb/mode/design)
 
 ## Features
+
+### Navigation Bar
+
+![image](assets/images/navbar.png)
+### Hero Image
+
+![image](assets/images/hero-image.png)
+
+### About Page
+The "About" page on my website is designed to give visitors a clear and engaging introduction to who I am and what my brand stands for. The layout is clean and visually appealing, with a balanced mix of text and images to make the content both informative and inviting.
+
+![image](assets/images/about-page.png)
+### Learn More Page
+
+![image](assets/images/learn-more-page.png)
+### Contact Page
+
+![image](assets/images/contact-page.png)
+### Footer
+
+![image](assets/images/footer.png)
+### Call to action Buttons
+
+![image](assets/images/hero-buttons.png)
+### Back to Top Button
+
+![image](assets/images/back-button.png)
+### Thank You Page
+
+![image](assets/images/thank-you-page.png)
 
 Responsive on all device sizes
 
