@@ -93,7 +93,8 @@ Tablet and Ipad Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?
 ### Navigation Bar
 The navigation bar (navbar) on my website is designed to be simple, intuitive, and accessible, ensuring visitors can easily find their way around. 
 Positioned at the top of each page, it remains visible as users scroll allowing for quick navigation.
-The navbar features clean, easy-to-read text in a font that matches the overall style of the website. 
+The navbar features clean, easy-to-read text in a font that matches the overall style of the website.
+The layout is horizontal, with each item evenly spaced for a tidy, organized look.
 Each menu item is clearly labeled, guiding visitors to key sections like "Home," "About," "Learn More," and "Contact page." 
 The number of links is kept minimal to avoid overwhelming users, focusing on the most important areas they’ll want to explore.
 
@@ -103,42 +104,58 @@ keeping the design sleek and ensuring a smooth browsing experience across all de
 
 ![image](assets/images/open-navbar.png)
 ### Hero Image
+My website's hero image is a striking and attractive image that grabs users' attention right away. 
+It takes up the entire width of the screen, making a powerful first impression and establishing the overall tone of the website.
+The graphic captures the spirit of my brand, which is warm and inviting. 
+The hero image provides a clear picture of the talent and passion that go into the work.
 
 ![image](assets/images/hero-image.png)
-
 ### About Page
 My website's "About" page aims to provide users with an interesting and brief overview of my site and the values of my business. 
 With a well-balanced combination of text and colours, the layout is clear and eye-catching, and the information is made to feel both friendly and educational.
 
 ![image](assets/images/about-page.png)
 ### Learn More Page
+My website's "Learn More" page aims at offering visitors a detailed look at my crocheting methods, techniques, and the background behind my art. 
+It serves as a hub for information where I share the enthusiasm, knowledge, and ideas that motivate my work. 
+To keep visitors interested, the website layout is clear and simple to use, creating a balance between interesting text and colours.
 
 ![image](assets/images/learn-more-page.png)
 ### Contact Page
+My website's "Contact" page is simple to use and intuitive, making it simple for visitors to get in touch with me. 
+It has a friendly tone and a simple design that highlights the important details.
+The page includes a simple contact form where users can fill out their name, email address, and message. 
+Each field is clearly labeled, ensuring that visitors understand what information is required.
 
 ![image](assets/images/contact-page.png)
+
+When the user submits the form there are re-directe to the thank you page.
+### Thank You Page
+The "Thank You" page on my website serves as a warm and friendly confirmation for visitors who have completed an action, such as submitting a contact form. 
+It’s designed to express gratitude and provide a positive user experience while guiding them on what to expect next.
+
+![image](assets/images/thank-you-page.png)
 ### Footer
+The purpose of my website's footer is to give users quick access to important information while keeping a tidy, 
+well-coordinated appearance that blends in with the overall theme. Consistent access to the navigation bar and links is ensured by its placement at the bottom of the page.
 
 ![image](assets/images/footer.png)
 ### Call to action Buttons
+My website's call-to-action buttons are purposefully made to draw users in and promote interaction. 
+To make each button stand out on the website, they are all designed with aesthetically pleasing designs and clear messaging.
 
 ![image](assets/images/hero-buttons.png)
 ### Back to Top Button
+The "Back to Top" button is activated when you ether click on a link to move to another part of the website or when you start to scroll down the page.
+The "Back to Top" button on my website is a convenient feature designed to enhance user experience by allowing visitors to quickly return to the top of the page with a single click.
 
 ![image](assets/images/back-button.png)
-### Thank You Page
-
-![image](assets/images/thank-you-page.png)
-
-Responsive on all device sizes
-
-Interactive elements
-
 ## Technologies Used
 
 ### Languages Used
 
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
 [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
@@ -161,6 +178,11 @@ Interactive elements
     - mockflow was used to create the [wireframes](https://github.com/) during the design process.
 
 ## Testing
+
+The website is responsive on all device sizes.
+### Desktop
+
+### Mobile
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
