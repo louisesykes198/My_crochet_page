@@ -181,7 +181,10 @@ The "Back to Top" button on my website is a convenient feature designed to enhan
 
 The website is responsive on all device sizes.
 ### Desktop
-
+![image](assets/images/about-page.png)
+![image](assets/images/learn-more-page.png)
+![image](assets/images/contact-page.png)
+![image](assets/images/thank-you-page.png)
 ### Mobile
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
