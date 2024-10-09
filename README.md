@@ -37,19 +37,32 @@ The website, My Crochet Page, presents a clean and minimalist design. Here’s a
 #### Logo
 The logo was desgined and downloaded from [Design.com](https://www.design.com/)
 
+![image](assets/images/crochet-logo.png)
+
 #### Colour Scheme
 The two main colours used are Code light blue, and light purple.
 The colors are simple, with a light blue background (which matches your preference) 
 providing a soft, calming effect. This complements a crochet-themed site well.
 The text contrasts well with the background, making it easy to read.
+
+![image](assets/images/color-palette.png)
     
- #### Layout:
+#### Layout:
 The structure is straightforward and user-friendly, with clear sections and no clutter. 
 This simplicity keeps the focus on the content.
 
 #### Typography
 The Fredoka font is the primary font used throughout the entire website. 
 Sans Serif serves as the backup font in the event that the Fredoka font cannot be properly imported into the website. 
+
+All icons were sourced though Font Awesome
+
+![image](assets/images/icons.png)
+
+All fonts were sourced through Google Fonts
+
+![image](assets/images/fonts.png)
+
 #### Imagery
 The background colour serves as a hero image which is designed to be striking and eye catching to intise user's attention. 
 
