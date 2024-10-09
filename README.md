@@ -91,14 +91,24 @@ Tablet and Ipad Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?
 ## Features
 
 ### Navigation Bar
+The navigation bar (navbar) on my website is designed to be simple, intuitive, and accessible, ensuring visitors can easily find their way around. 
+Positioned at the top of each page, it remains visible as users scroll allowing for quick navigation.
+The navbar features clean, easy-to-read text in a font that matches the overall style of the website. 
+Each menu item is clearly labeled, guiding visitors to key sections like "Home," "About," "Learn More," and "Contact page." 
+The number of links is kept minimal to avoid overwhelming users, focusing on the most important areas they’ll want to explore.
 
 ![image](assets/images/navbar.png)
+When the navigation bar is on a smaller device the navbar collapses into a hamburger menu, 
+keeping the design sleek and ensuring a smooth browsing experience across all devices.
+
+![image](assets/images/open-navbar.png)
 ### Hero Image
 
 ![image](assets/images/hero-image.png)
 
 ### About Page
-The "About" page on my website is designed to give visitors a clear and engaging introduction to who I am and what my brand stands for. The layout is clean and visually appealing, with a balanced mix of text and images to make the content both informative and inviting.
+My website's "About" page aims to provide users with an interesting and brief overview of my site and the values of my business. 
+With a well-balanced combination of text and colours, the layout is clear and eye-catching, and the information is made to feel both friendly and educational.
 
 ![image](assets/images/about-page.png)
 ### Learn More Page
