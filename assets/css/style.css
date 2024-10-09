@@ -149,10 +149,8 @@ background-repeat: no-repeat, repeat;
  }
 /* Learn More Page */
 .container-learn-more{
-  width: 100%;
   height: 100%;
-  padding-left: 30px;
-  padding-bottom: 250px;
+  padding: 20px;
   }
 .container-learn-more h1{
   text-align: center;
@@ -168,8 +166,8 @@ background-repeat: no-repeat, repeat;
   background-color: rgb(203, 220, 243);
   width: 100%;
   padding-left: 20px;
-  padding-top: 25px;
-  padding-bottom: 40px;
+  padding-top: 255px;
+  padding-bottom: 60px;
    }
  .contact-title h1{
   font-weight: 600;
