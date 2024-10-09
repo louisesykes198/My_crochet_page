@@ -77,15 +77,12 @@ A short headline that sums up my message sits in the centre of the image, provid
 ![image](assets/images/hero-image.png)
 ### Wireframes
 
-Desktop Wireframe - [View]([assets/images/desk-top-wireframe.png](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/c9ec330abf5a472ba4b1836009c9b01c/mode/design))
+Desktop Wireframe - [View]([assets/images/desk-top-wireframe.png](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/c9ec330abf5a472ba4b1836009c9b01c/mode/design)
 
-Mobile Wireframe - [View]([assets/images/mobile-wireframe.png](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/De59d1a70e49d2a039f450db264f64023/mode/design))
+Mobile Wireframe - [View]([assets/images/mobile-wireframe.png](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/De59d1a70e49d2a039f450db264f64023/mode/design)
 
-Tablet and Ipad Wireframe - [View]([assets/images/tablet-and-ipad-wireframe.png](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/Db889ae22799549a29dbf8a6036ac84fb/mode/design))
+Tablet and Ipad Wireframe - [View]([assets/images/tablet-and-ipad-wireframe.png](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/Db889ae22799549a29dbf8a6036ac84fb/mode/design)
 
-![image](https://github.com/user-attachments/assets/58884465-7e82-4bf2-9c42-373ad4ab8bd1)
-![image](https://github.com/user-attachments/assets/c9f57b70-98cc-42ba-b9db-34a40e2b5e1c)
-![image](https://github.com/user-attachments/assets/7c41f718-dca9-4588-96f8-334f0bd1c199)
 ## Features
 
 Responsive on all device sizes
