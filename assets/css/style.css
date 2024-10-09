@@ -71,7 +71,7 @@ background-repeat: no-repeat, repeat;
 .container-about{
   width: 100%;
   height: 100%;
-  padding-top: 220px;
+  padding-top: 200px;
   padding-bottom: 200px;
   font-size: medium; 
   background-color: rgb(203, 220, 243);
@@ -295,6 +295,6 @@ padding-bottom: 200px;
 }
 @media only screen and (max-width: 600px) {
   body {
-    background-color: lightblue;
+    background-color: rgb(167, 206, 219);
   }
 }
