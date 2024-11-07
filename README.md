@@ -15,13 +15,29 @@ This site is for user who want to start there crochet journey. They can learn wh
 #### First Time Visitor Goals
 
 1. As an unfamiliar viewer, I want to quickly figure out the site's primary goal and discover more about the company.
+
+![image](assets/images/learn-more-page.png)
 2. I want to be able to find material on the website with ease as a first-time visitor.
-3. I want to be able to mover around the site quickly and be able to get back to where I started
+
+![image](assets/images/navbar.png)
+3. I want to be able to mover around the site quickly and be able to get back to where I started.
+
+![image](assets/images/open-navbar.png)
+
+Back to top button.
+
+![image](assets/images/back-button.png)
 
 #### Returning Visitor Goals
 
 1. As a Returning Visitor, I would like to know how to contact the organisation with any questions that I might have.
-2. As a Returning Visitor, I want to be able to find and use the socail media links
+
+![image](assets/images/contact-page.png)
+
+2. As a Returning Visitor, I want to be able to find and use the socail media links.
+
+![image](assets/images/footer.png)
+
 3. As a Returning Visitor, I want to be able to find the information I am searching for.
 
 #### Frequent User Goals
