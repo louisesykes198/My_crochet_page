@@ -82,7 +82,7 @@ A short headline that sums up my message sits in the centre of the image, provid
 The wireframes I’ve created for my website serve as a visual reference for planning and organizing the overall layout of the site. 
 The wireframes allow me to map out the layout of each page, focusing on how visitors will navigate and interact with the content.
 
-Desktop Wireframe - [View]([[https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/c9ec330abf5a472ba4b1836009c9b01c/mode/design]
+Desktop Wireframe - [View]([https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/c9ec330abf5a472ba4b1836009c9b01c/mode/design)
 
 Mobile Wireframe - [View](https://wireframepro.mockflow.com/editor.jsp?editor=off&perm=Owner&projectid=M74L8w1RTh&publicid=f6317e4769e440d18a553e8f44d7a54c&space=ce16c8809ceb42f3af9a9e5154b3aabd#/page/De59d1a70e49d2a039f450db264f64023/mode/design)
 
