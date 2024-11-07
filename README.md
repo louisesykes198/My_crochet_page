@@ -40,6 +40,8 @@ Back to top button.
 
 3. As a Returning Visitor, I want to be able to find the information I am searching for.
 
+![image](assets/images/navbar-only.png)
+
 #### Frequent User Goals
 
 1. As a Frequent User, I want to see if there are any new information has been updated or added.
