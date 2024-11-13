@@ -221,9 +221,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ![image](assets/images/html-checker.png)
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-The error on the css checker is due to the google font which the checker does not recognise.
 
-![image](assets/images/css-checker.png)
+![image](assets/images/css-validater.png)
 ### Testing User Stories from User Experience (UX) Section
     
 #### First Time Visitor Goals
